@@ -32,7 +32,3 @@ My personal corner on the web – a space where I share my thoughts on life, boo
 **Other tools**:
 - GitHub Actions (for static deployment)
 - Git & GitHub for version control
-
----
-
-## 📂 Project Structure
